@@ -21,14 +21,14 @@ effectively mirrors the observed performance, indicating potential optimism and 
 into the model’s robustness across diverse scenarios in comparison to the Framingham study. 
 
 ## References and Acknowledgements
-1.”Transporting a prediction model for use in a new target population” (Jon A. Steingrimsson, Constantine
+1. ”Transporting a prediction model for use in a new target population” (Jon A. Steingrimsson, Constantine
 Gatsonis, and Issa J. Dahabreh)-2021
 
-2.”General Cardiovascular Risk Profile for Use in Primary Care-The Framingham Heart Study” (Ralph B.
+2. ”General Cardiovascular Risk Profile for Use in Primary Care-The Framingham Heart Study” (Ralph B.
 D’Agostino, Sr, PhD, Ramachandran S. Vasan, MD, Michael J. Pencina, PhD, Philip A. Wolf, MD, Mark
 Cobain, PhD, Joseph M. Massaro, PhD, and William B. Kannel, MD)-2008
 
-3. Li, Bing & Gatsonis, Constantine & Dahabreh, Issa & Steingrimsson, Jon. (2022). Estimating the area
+4. Li, Bing & Gatsonis, Constantine & Dahabreh, Issa & Steingrimsson, Jon. (2022). Estimating the area
 under the ROC curve when transporting a prediction model to a target population. Biometrics. 79.
 10.1111/biom.13796.
 
