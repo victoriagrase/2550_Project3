@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.10.10)  3 DEC 2023 23:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.10.10)  16 DEC 2023 05:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,28 +639,28 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box74
 ) (Project3.aux
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 
-LaTeX Warning: Label `tab:unnamed-chunk-9' multiply defined.
+LaTeX Warning: Label `tab:unnamed-chunk-10' multiply defined.
 
 )
 \openout1 = `Project3.aux'.
@@ -812,169 +812,225 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 
 {C:/Users/CAU Student/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-03.
+46.
 (C:\Users\CAU Student\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [2]
-<Project3_files/figure-latex/unnamed-chunk-4-1.pdf, id=24, 469.755pt x 325.215p
+<Project3_files/figure-latex/unnamed-chunk-3-1.pdf, id=24, 469.755pt x 325.215p
 t>
-File: Project3_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
+File: Project3_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
 
-<use Project3_files/figure-latex/unnamed-chunk-4-1.pdf>
-Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-4-1.pdf  use
-d on input line 272.
+<use Project3_files/figure-latex/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-3-1.pdf  use
+d on input line 288.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[3 <./Project3_files/figure-latex/unnamed-chunk-4-1.pdf>]
+[3 <./Project3_files/figure-latex/unnamed-chunk-3-1.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 317.
+(Font)              <10> on input line 330.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 317.
+(Font)              <7> on input line 330.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 317.
-<images/Screenshot (46)-01.png, id=37, 507.39563pt x 117.43875pt>
-File: images/Screenshot (46)-01.png Graphic file (type png)
-<use images/Screenshot (46)-01.png>
-Package pdftex.def Info: images/Screenshot (46)-01.png  used on input line 363.
-
+(Font)              <5> on input line 330.
+<images/Screenshot (46).png, id=36, 507.39563pt x 117.43875pt>
+File: images/Screenshot (46).png Graphic file (type png)
+<use images/Screenshot (46).png>
+Package pdftex.def Info: images/Screenshot (46).png  used on input line 407.
 (pdftex.def)             Requested size: 469.76718pt x 108.72948pt.
-[4 <./images/Screenshot (46)-01.png>]
-<Project3_files/figure-latex/unnamed-chunk-9-1.pdf, id=48, 469.755pt x 325.215p
-t>
-File: Project3_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type pdf)
-
-<use Project3_files/figure-latex/unnamed-chunk-9-1.pdf>
-Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-9-1.pdf  use
-d on input line 595.
-(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-<Project3_files/figure-latex/unnamed-chunk-9-2.pdf, id=49, 469.755pt x 325.215p
-t>
-File: Project3_files/figure-latex/unnamed-chunk-9-2.pdf Graphic file (type pdf)
-
-<use Project3_files/figure-latex/unnamed-chunk-9-2.pdf>
-Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-9-2.pdf  use
-d on input line 596.
-(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 595--602
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 595--602
-[]
- []
-
-[5] [6] [7 <./Project3_files/figure-latex/unnamed-chunk-9-1.pdf>] [8 <./Project
-3_files/figure-latex/unnamed-chunk-9-2.pdf>]
-<Project3_files/figure-latex/unnamed-chunk-10-1.pdf, id=98, 469.755pt x 325.215
+[4] [5 <./images/Screenshot (46).png>] [6]
+<Project3_files/figure-latex/unnamed-chunk-10-1.pdf, id=64, 469.755pt x 325.215
 pt>
 File: Project3_files/figure-latex/unnamed-chunk-10-1.pdf Graphic file (type pdf
 )
 <use Project3_files/figure-latex/unnamed-chunk-10-1.pdf>
 Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-10-1.pdf  us
-ed on input line 639.
+ed on input line 641.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-<Project3_files/figure-latex/unnamed-chunk-11-1.pdf, id=99, 469.755pt x 325.215
+<Project3_files/figure-latex/unnamed-chunk-10-2.pdf, id=65, 469.755pt x 325.215
 pt>
+File: Project3_files/figure-latex/unnamed-chunk-10-2.pdf Graphic file (type pdf
+)
+<use Project3_files/figure-latex/unnamed-chunk-10-2.pdf>
+Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-10-2.pdf  us
+ed on input line 642.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--648
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--648
+[]
+ []
+
+[7 <./Project3_files/figure-latex/unnamed-chunk-10-1.pdf>] [8] [9 <./Project3_f
+iles/figure-latex/unnamed-chunk-10-2.pdf>]
+<Project3_files/figure-latex/unnamed-chunk-11-1.pdf, id=104, 469.755pt x 325.21
+5pt>
 File: Project3_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (type pdf
 )
 <use Project3_files/figure-latex/unnamed-chunk-11-1.pdf>
 Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-11-1.pdf  us
-ed on input line 644.
+ed on input line 685.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[9 <./Project3_files/figure-latex/unnamed-chunk-10-1.pdf>] [10 <./Project3_file
-s/figure-latex/unnamed-chunk-11-1.pdf>] [11] [12]
+<Project3_files/figure-latex/unnamed-chunk-12-1.pdf, id=105, 469.755pt x 325.21
+5pt>
+File: Project3_files/figure-latex/unnamed-chunk-12-1.pdf Graphic file (type pdf
+)
+<use Project3_files/figure-latex/unnamed-chunk-12-1.pdf>
+Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-12-1.pdf  us
+ed on input line 690.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<Project3_files/figure-latex/unnamed-chunk-13-1.pdf, id=106, 469.755pt x 325.21
+5pt>
+File: Project3_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (type pdf
+)
+<use Project3_files/figure-latex/unnamed-chunk-13-1.pdf>
+Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-13-1.pdf  us
+ed on input line 691.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--692
+[]
+ []
+
+[10 <./Project3_files/figure-latex/unnamed-chunk-11-1.pdf>]
+Overfull \vbox (18.45663pt too high) has occurred while \output is active []
+
+[11 <./Project3_files/figure-latex/unnamed-chunk-12-1.pdf> <./Project3_files/fi
+gure-latex/unnamed-chunk-13-1.pdf>]
+<Project3_files/figure-latex/unnamed-chunk-14-1.pdf, id=135, 469.755pt x 325.21
+5pt>
+File: Project3_files/figure-latex/unnamed-chunk-14-1.pdf Graphic file (type pdf
+)
+<use Project3_files/figure-latex/unnamed-chunk-14-1.pdf>
+Package pdftex.def Info: Project3_files/figure-latex/unnamed-chunk-14-1.pdf  us
+ed on input line 693.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[12 <./Project3_files/figure-latex/unnamed-chunk-14-1.pdf>] [13] [14]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 789.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 844.
 LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-932.
+987.
 (C:\Users\CAU Student\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
 File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \vbox (badness 4341) detected at line 1419
- []
-
-[13]
-Underfull \vbox (badness 10000) detected at line 1419
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1419
- []
-
-[14]
-Underfull \vbox (badness 10000) detected at line 1419
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 4341) detected at line 1683
  []
 
 [15]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [16]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [17]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [18]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [19]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [20]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [21]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 [22]
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1419
+Underfull \vbox (badness 10000) detected at line 1683
  []
 
-[23] [24] (Project3.aux)
+[23]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[24]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[25]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[26]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[27]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[28]
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1683
+ []
+
+[29] [30] (Project3.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -984,13 +1040,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15711 strings out of 475246
- 250913 string characters out of 5754924
- 1984785 words of memory out of 5000000
- 36764 multiletter control sequences out of 15000+600000
- 610567 words of font info for 141 fonts, out of 8000000 for 9000
+ 15739 strings out of 475246
+ 252035 string characters out of 5754924
+ 2005785 words of memory out of 5000000
+ 36780 multiletter control sequences out of 15000+600000
+ 610733 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,13n,81p,1007b,482s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,13n,81p,1007b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/CAU Student/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1
 .enc}{C:/Users/CAU Student/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-
 ec.enc}{C:/Users/CAU Student/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
@@ -1007,9 +1063,9 @@ Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/CAU Stude
 nt/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/CAU
  Student/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Use
 rs/CAU Student/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Project3.pdf (24 pages, 400725 bytes).
+Output written on Project3.pdf (30 pages, 419900 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 26767 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 26777 words of extra memory for PDF output out of 29859 (max. 10000000)
 
