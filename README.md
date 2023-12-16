@@ -1,11 +1,15 @@
 ## Modeling Cardiovascular Disease Risk: Evaluating Predictive Performance in the NHANES Target Population Using Framingham Heart Study Data
 
 ## Abstract
-This study aimed to develop a prediction model for assessing the risk of cardiovascular disease (CVD)
-events. Professionals in the healthcare system often rely on these multivariable risk algorithms to estimate the
-likelihood of specific CVD events in a target population. This investigation utilized data from the Framingham
-Heart Study through the risk Communicator package to construct a prediction model. Subsequently, it
-evaluated the model’s performance in a target population derived from the National Health and Nutrition
+This study aimed to compare simulation and data-based analysis for transportability purposes, assessing the
+efficacy of both approaches in generalizing findings from target populations to larger and more expansive
+populations who meet certain criteria. The goal was to evaluate how insights derived from simulation
+and empirical data analysis contribute to the transportability of results, particularly when extrapolating
+conclusions to broader segments of the overall population. Professionals in the healthcare system often rely
+on these multivariable risk algorithms to estimate the likelihood of specific CVD events in a target population.
+This investigation utilized data from the Framingham Heart Study through the risk Communicator package
+to construct a prediction model for assessing the risk of cardiovascular disease (CVD) events. Subsequently,
+it evaluated the model’s performance in a target population derived from the National Health and Nutrition
 Examination Survey (NHANES) data using the nhanesA package. The logistic regression method was
 employed to assess the probability of CVD event occurrence in a binary setting within the NHANES target
 population, comprising 2,838 study participants. The study population, with a mean age of 46.65 years
@@ -15,10 +19,9 @@ often referred to as “general CVD” algorithms, incorporated variables such a
 lipoprotein cholesterol, systolic and diastolic blood pressure, treatment for hypertension, smoking status, body
 mass index (BMI), blood pressure medication usage, and diabetes status.The study aimed to comprehensively
 assess the predictive performance of the model within the NHANES target population. The findings and
-results of this evaluation show the Monte Carlo simulation, with a high-density cluster around the Brier
-estimate in the target NHANES population (0.047) and lower densities for brier estimates beyond 0.08,
-effectively mirrors the observed performance, indicating potential optimism and providing valuable insights
-into the model’s robustness across diverse scenarios in comparison to the Framingham study. 
+results of this evaluation show the Monte Carlo simulation, with a high-density cluster around the test Brier
+estimate is much higher than the brier score in the target NHANES population (0.047) and lower densities
+for brier estimates beyond 0.20, indicates a degree of variability in the model that is unaccounted for.
 
 ## References and Acknowledgements
 1. ”Transporting a prediction model for use in a new target population” (Jon A. Steingrimsson, Constantine
